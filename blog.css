@@ -1,0 +1,75 @@
+/* stylling for the MAIN heading (World blog and the icon) */
+.home{
+    text-align: center;
+    font-size: 55px;
+    background-color: beige;
+    border-radius: 10px;
+  width: 1350px;
+  background:rgba(159, 182, 173, 0.384);
+  box-shadow:  5px -5px 10px 10px rgba(119, 136, 153, 0.397), 
+  -5px 5px 10px 10px rgba(119, 136, 153, 0.418); 
+outline-width: thin;
+color:lightslategray;
+background-color: rgba(211, 211, 211, 0.295);
+height: 210px;
+font-family: "Audiowide", sans-serif;
+font-size: 80px;
+color: rgba(20, 191, 248, 0.932); 
+text-shadow: 10px 10px 15px;
+}
+.politics{
+  height: 500px;
+  width: 1320px;
+outline-width: thin;
+color:lightslategray;
+background-image: url(web/new.jpg);
+background-repeat: no-repeat;
+background-size: 1320px 900px; 
+}
+.crypto{
+  
+  height: 600px;
+  width: 1350px;
+outline-width: thin;
+color:lightslategray;
+background-image: url(web/new\ one\ 7.jpg);
+background-repeat: no-repeat;
+background-size: 1320px 900px; 
+}
+p2{
+  color: black;
+}
+
+.ronaldo{
+  height: 500px;
+  width: 1320px;
+outline-width: thin;
+color:lightslategray;
+background-image: url(web/ronaldo.png);
+background-repeat: no-repeat;
+background-size: 1320px 900px; 
+}
+.education{
+  height:700px;
+  width: 1320px;
+outline-width: thin;
+color: lightslategray;
+background-image: url(web/parents\ lament.png);
+background-repeat: no-repeat;
+background-size: 1320px 900px; 
+}
+.feedback{
+  text-align: center;
+  text-align: center;
+  background-color: rgba(211, 211, 211, 0.726);
+width:1160px;
+background: rgba(211, 211 , 211, 0.664);
+text-align: center;
+height: 400px;
+border-radius: 30px;
+outline-width: thin;
+align-items: center;
+border-radius: 7px;
+margin-left: 145px;
+box-shadow: 30px;
+}
